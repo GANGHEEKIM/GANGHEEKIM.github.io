@@ -1,0 +1,21 @@
+body{background-image: url(back.png);}
+
+h1{text-align: center;
+    font-size: 40pt;
+    line-height: 1;
+    font-style: Courier;}
+
+h2{text-align: center;
+    font-size: 27pt;
+    line-height: 1;
+    font-style: Courier;}
+
+h3{text-align: center;
+    font-size: 30pt;
+    line-height: 1;
+    font-style: Courier;}
+
+h4{text-align: center;
+    font-size: 20pt;
+    line-height: 1;
+    font-style: Courier;}
